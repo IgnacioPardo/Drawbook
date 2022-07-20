@@ -1,0 +1,7 @@
+.vscode
+.ipynb_checkpoints
+.DS_Store
+test.excalidraw.svg
+canvas.html
+__pycache__
+drawings
